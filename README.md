@@ -41,7 +41,7 @@ Hello, my name is Vitalik. I am a QA-engineer
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://www.mysql.com/">
-<img src="![image](https://github.com/user-attachments/assets/daa061e7-324d-420d-965a-b8c3c44fc1e6)" alt="Swagger" width="50" height="50" />
+<img src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png)" alt="Swagger" width="50" height="50" />
 
 ## My contacts
 
