@@ -23,19 +23,19 @@ Hello, my name is Vitalik. I am a QA-engineer
   
 
 ## Instruments and technologies
--Jira
--TestRail
--Rest API
--Postman
--Fiddler Classic
--Fiddler Everywhere
--XML
--JSON
--Git
--Sourcetree
--KDiff3
--MySQL
--MS SQL
+- [Jira]
+- [TestRail]
+- [Rest API]
+- [Postman]
+- [Fiddler Classic]
+- [Fiddler Everywhere]
+- [XML]
+- [JSON]
+- [Git]
+- [Sourcetree]
+- [KDiff3]
+- [MySQL]
+- [MS SQL]
 
 ## My contacts
 
