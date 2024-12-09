@@ -25,17 +25,18 @@ Hello, my name is Vitalik. I am a QA-engineer
 ## Instruments and technologies
 - [Jira](https://www.atlassian.com/software/jira)
 - [TestRail](https://www.testrail.com/)
-- [Rest API]
-- [Postman]
-- [Fiddler Classic]
-- [Fiddler Everywhere]
-- [XML]
-- [JSON]
-- [Git]
-- [Sourcetree]
-- [KDiff3]
-- [MySQL]
-- [MS SQL]
+- Rest API
+- [Postman](https://www.postman.com/)
+- [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic)
+- [Fiddler Everywhere](https://www.telerik.com/fiddler/fiddler-everywhere)
+- XML
+- JSON
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [KDiff3](https://kdiff3.sourceforge.net/)
+- [MySQL](https://www.mysql.com/)
+- MS SQL
 
 ## My contacts
 
