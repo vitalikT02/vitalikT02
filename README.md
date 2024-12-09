@@ -17,7 +17,7 @@ Hello, my name is Vitalik. I am a QA-engineer
   -  [Bug Report Table](https://docs.google.com/spreadsheets/d/10QM1XQhwFyDmBLZdf4N-5aGjQOIjVWj6nJz-CWcysvE/edit?usp=sharing)
   -  [Bug Report Jira](https://titar2016.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNmM1NzgyZTRlM2ZmNGY3ODliYzAxYWNmYTdkY2U2MjIiLCJwIjoiaiJ9)
 - Collection in Postman
-  -  [Название проекта](https://ссылочку_сюда)
+  -  [Pets Store](https://blue-crater-809395.postman.co/workspace/7e45aba2-b6a3-4207-865e-04ad26b60415/collection/40043639-8502f6f2-44f7-47ae-a077-33163083e24d?action=share&source=copy-link&creator=40043639)
 - SQL requests 
   -  [Название проектв](https://ссылочку_сюда)
   
