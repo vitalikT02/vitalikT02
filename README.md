@@ -23,22 +23,19 @@ Hello, my name is Vitalik. I am a QA-engineer
   
 
 ## Instruments and technologies
-<p align="left">
-</a>
-<a href="https://www.gurock.com/testrail">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
-</a>
-<a href="https://www.telerik.com/fiddler">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
-</a>
-<a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
-</a>
-<a href="https://www.postman.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
-</a>
-<a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+-Jira
+-TestRail
+-Rest API
+-Postman
+-Fiddler Classic
+-Fiddler Everywhere
+-XML
+-JSON
+-Git
+-Sourcetree
+-KDiff3
+-MySQL
+-MS SQL
 
 ## My contacts
 
