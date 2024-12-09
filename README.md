@@ -24,7 +24,7 @@ Hello, my name is Vitalik. I am a QA-engineer
 
 ## Instruments and technologies
 - [Jira](https://www.atlassian.com/software/jira)
-- [TestRail]
+- [TestRail](https://www.testrail.com/)
 - [Rest API]
 - [Postman]
 - [Fiddler Classic]
