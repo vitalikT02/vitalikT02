@@ -7,7 +7,7 @@ Hello, my name is Vitalik. I am a QA-engineer
 
 ## My CV 
 
-[Здесь будет сслыка на резюме](https://docs.google.com/document/d/17G_x3z3bNgIIetGAB5NURdQ056RoKRYkIWcpx_ia5gA/edit?usp=sharing)
+[My Resume](https://docs.google.com/document/d/17G_x3z3bNgIIetGAB5NURdQ056RoKRYkIWcpx_ia5gA/edit?usp=sharing)
 
 ## Портфолио 
 - Test documentation
