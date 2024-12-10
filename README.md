@@ -20,6 +20,7 @@ Hello, my name is Vitalik. I am a QA-engineer
   -  [Pets Store](https://blue-crater-809395.postman.co/workspace/7e45aba2-b6a3-4207-865e-04ad26b60415/collection/40043639-8502f6f2-44f7-47ae-a077-33163083e24d?action=share&source=copy-link&creator=40043639)
 - SQL requests 
   -  [Create DataBase](https://docs.google.com/document/d/1Ax8VH8JDEKQoTheHUX6H9cFIxzF94YD56WrGi8qI8mY/edit?usp=sharing)
+  -  [JSON](https://docs.google.com/document/d/1TAa6Tpv_gwgf5TAoaYEKi42Ec2gsaJa5u4ViHD52P6A/edit?usp=sharing)
   
 
 ## Instruments and technologies
